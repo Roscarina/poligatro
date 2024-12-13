@@ -9,8 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.poligatro.poligatro.models.Usuario;
 import com.poligatro.poligatro.repository.UsuarioRepository;
-import org.springframework.web.bind.annotation.RequestParam;
-
 
 @RestController
 @RequestMapping("api")
